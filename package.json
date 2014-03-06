@@ -1,0 +1,15 @@
+{
+  "name": "cts",
+  "main": "./lib/cts",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": ["cts:toggle"],
+  "repository": "https://github.com/atom/cts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
