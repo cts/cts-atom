@@ -4,6 +4,7 @@ module.exports = {
   configDefaults: {
   },
   activate: function(){
+    console.log("Hi");
     var self = this;
     self.atomCTS = new AtomCTS();
     atom.workspaceView.command("cts:convert", function() {

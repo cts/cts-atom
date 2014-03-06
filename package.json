@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "figlet": "1.0.8",
-    "underscore-plus": "~1.0.4"
+    "underscore-plus": "~1.0.4",
+    "emissary": "1.x"
   }
 }
