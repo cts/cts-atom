@@ -1,15 +1,16 @@
 {
   "name": "cts",
-  "main": "./lib/cts",
-  "version": "0.0.0",
+  "main": "./index.js",
+  "version": "0.0.1",
   "private": true,
-  "description": "A short description of your package",
-  "activationEvents": ["cts:toggle"],
+  "description": "Test CTS Integration",
+  "activationEvents": ["cts:convert"],
   "repository": "https://github.com/atom/cts",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "dependencies": {
+    "figlet": "1.0.8"
   }
 }
