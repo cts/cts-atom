@@ -1,4 +1,4 @@
-Cts = require '../lib/cts'
+Cts = require '../index.js'
 
 # Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 #
